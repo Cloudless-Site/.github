@@ -1,4 +1,4 @@
-# ⚡ Cloudless
+# 🎸 Cloudless
 
 🌐 https://cloudless.site
 
