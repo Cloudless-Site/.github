@@ -1,6 +1,6 @@
 # 🎸 Cloudless
 
-🌐 https://cloudless.site
+🌐 https://www.cloudless.site
 
 Expose local services to the internet.
 
@@ -10,7 +10,7 @@ Without guessing. Without dashboards. Without bullshit.
 
 ## 🧩 Projects
 
-### 🌐 Cloudless
+### 🌍 Cloudless
 Tunneling system built on top of SSH.
 
 - HTTPS exposure
