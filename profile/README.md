@@ -10,6 +10,18 @@ Without guessing. Without dashboards. Without bullshit.
 
 ## 🧩 Projects
 
+### 🌐 Cloudless
+Tunneling system built on top of SSH.
+
+- HTTPS exposure
+- zero-effort discovery
+- minimal control plane
+- single-process core
+
+👉 https://github.com/Cloudless-site/cloudless
+
+---
+
 ### 🔍 Scoutless
 LAN discovery engine in C.
 
@@ -20,18 +32,6 @@ LAN discovery engine in C.
 - built for unstable networks
 
 👉 https://github.com/Cloudless-site/scoutless
-
----
-
-### 🌐 Cloudless
-Tunneling system built on top of SSH.
-
-- HTTPS exposure
-- zero-effort discovery
-- minimal control plane
-- single-process core
-
-👉 https://github.com/Cloudless-site/cloudless
 
 ---
 
