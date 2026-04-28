@@ -18,7 +18,7 @@ Tunneling system built on top of SSH.
 - minimal control plane
 - single-process core
 
-👉 https://github.com/Cloudless-site/cloudless
+👉 [Cloudless Repository](https://github.com/Cloudless-site/cloudless)
 
 ---
 
@@ -31,7 +31,7 @@ LAN discovery engine in C.
 - global pacing
 - built for unstable networks
 
-👉 https://github.com/Cloudless-site/scoutless
+👉 [Scoutless Repository](https://github.com/Cloudless-site/scoutless)
 
 ---
 
